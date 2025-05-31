@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -8,13 +8,6 @@ redirect_from:
 ---
 
 {% include base_path %}
-
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
-
 Work experience
 ======
 * Spring 2024: Academic Pages Collaborator
@@ -31,7 +24,12 @@ Work experience
   * GitHub University
   * Duties included: Tagging issues
   * Supervisor: Professor Git
-  
+
+Education
+======
+* Ph.D in Analytics, University of Technology Sydney, 2024
+* M.S. in computer science, Xiangtan University, 2018
+
 Skills
 ======
 * Skill 1
